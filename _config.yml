@@ -1,0 +1,11 @@
+# basic options
+title: Grace's jekyll test site
+author: Grace Ye
+email: gan.ye@pepperdine.edu
+description: I will use this site for different tests.
+twitter_username: Gan_Ye
+github_username: graceganye
+
+# Build settings
+markdown: kramdown
+theme: minima
