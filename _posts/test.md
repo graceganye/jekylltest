@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: test in History
 ---
 
 The year is 2022.
